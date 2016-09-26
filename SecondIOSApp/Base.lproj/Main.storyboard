@@ -34,6 +34,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <connections>
+                        <outlet property="backround" destination="8bC-Xf-vdC" id="QcS-dl-qCd"/>
                         <outlet property="firstButton" destination="aWL-qa-reH" id="0pQ-iK-g2z"/>
                         <outlet property="firstTextLabel" destination="yQW-Xf-d4V" id="XBA-AB-gco"/>
                     </connections>
